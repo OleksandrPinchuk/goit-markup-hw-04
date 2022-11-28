@@ -39,7 +39,6 @@ img {
 .section {
   padding-top: 94px;
   padding-bottom: 94px;
-  max-width: 1600px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -55,7 +54,6 @@ img {
   border-bottom-width: 1px;
   border-bottom-style: solid;
   border-bottom-color: #ececec;
-  max-width: 1600px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -436,7 +434,6 @@ img {
 .footer {
   padding: 60px 0;
   background-color: var(--black-background-color);
-  max-width: 1600px;
   margin-left: auto;
   margin-right: auto;
 }
